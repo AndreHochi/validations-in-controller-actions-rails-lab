@@ -28,9 +28,9 @@ This is a barebones app with two models, `Author` and `Post`. Right now, you can
 To complete this lab, you will need to:
 
 1. Add validations to `Author` such that...
-1. The name cannot be blank
+1. The name cannot be blankname
 1. The e-mail is unique
-1. Add validations to `Post` such that...
+1. Add validations to `Postname
 1. The title cannot be blank
 1. The category is either `"Fiction"` or `"Non-Fiction"`
 1. The content is at least 100 characters long.
